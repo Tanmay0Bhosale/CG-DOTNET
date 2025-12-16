@@ -1,0 +1,7 @@
+C:\Users\tanma\Desktop\CG-DOTNET\CelciusToFahrenhiet\CelciusToFahrenhiet\bin\Debug\CelciusToFahrenhiet.exe.config
+C:\Users\tanma\Desktop\CG-DOTNET\CelciusToFahrenhiet\CelciusToFahrenhiet\bin\Debug\CelciusToFahrenhiet.exe
+C:\Users\tanma\Desktop\CG-DOTNET\CelciusToFahrenhiet\CelciusToFahrenhiet\bin\Debug\CelciusToFahrenhiet.pdb
+C:\Users\tanma\Desktop\CG-DOTNET\CelciusToFahrenhiet\CelciusToFahrenhiet\obj\Debug\CelciusToFahrenhiet.csproj.AssemblyReference.cache
+C:\Users\tanma\Desktop\CG-DOTNET\CelciusToFahrenhiet\CelciusToFahrenhiet\obj\Debug\CelciusToFahrenhiet.csproj.CoreCompileInputs.cache
+C:\Users\tanma\Desktop\CG-DOTNET\CelciusToFahrenhiet\CelciusToFahrenhiet\obj\Debug\CelciusToFahrenhiet.exe
+C:\Users\tanma\Desktop\CG-DOTNET\CelciusToFahrenhiet\CelciusToFahrenhiet\obj\Debug\CelciusToFahrenhiet.pdb

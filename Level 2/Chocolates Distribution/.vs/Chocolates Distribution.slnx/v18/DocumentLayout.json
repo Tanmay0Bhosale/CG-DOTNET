@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanma\\Desktop\\CG-DOTNET\\Chocolates Distribution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0895CDBF-0D54-47EC-85C0-0274DEDB119F}|Chocolates Distribution\\Chocolates Distribution.csproj|c:\\users\\tanma\\desktop\\cg-dotnet\\chocolates distribution\\chocolates distribution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0895CDBF-0D54-47EC-85C0-0274DEDB119F}|Chocolates Distribution\\Chocolates Distribution.csproj|solutionrelative:chocolates distribution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanma\\Desktop\\CG-DOTNET\\Chocolates Distribution\\Chocolates Distribution\\Program.cs",
+              "RelativeDocumentMoniker": "Chocolates Distribution\\Program.cs",
+              "ToolTip": "C:\\Users\\tanma\\Desktop\\CG-DOTNET\\Chocolates Distribution\\Chocolates Distribution\\Program.cs",
+              "RelativeToolTip": "Chocolates Distribution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T19:26:28.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

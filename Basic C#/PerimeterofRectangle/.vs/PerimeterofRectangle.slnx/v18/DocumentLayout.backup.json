@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanma\\Desktop\\CG-DOTNET\\PerimeterofRectangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB089A-5735-44FF-8185-A9CC271CD89A}|PerimeterofRectangle\\PerimeterofRectangle.csproj|c:\\users\\tanma\\desktop\\cg-dotnet\\perimeterofrectangle\\perimeterofrectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB089A-5735-44FF-8185-A9CC271CD89A}|PerimeterofRectangle\\PerimeterofRectangle.csproj|solutionrelative:perimeterofrectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanma\\Desktop\\CG-DOTNET\\PerimeterofRectangle\\PerimeterofRectangle\\Program.cs",
+              "RelativeDocumentMoniker": "PerimeterofRectangle\\Program.cs",
+              "ToolTip": "C:\\Users\\tanma\\Desktop\\CG-DOTNET\\PerimeterofRectangle\\PerimeterofRectangle\\Program.cs*",
+              "RelativeToolTip": "PerimeterofRectangle\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:02:42.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanma\\Desktop\\CG-DOTNET\\FahrenhietCelcius\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{591A984B-30FB-4FFB-8BB6-0E9C96592564}|FahrenhietCelcius\\FahrenhietCelcius.csproj|c:\\users\\tanma\\desktop\\cg-dotnet\\fahrenhietcelcius\\fahrenhietcelcius\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591A984B-30FB-4FFB-8BB6-0E9C96592564}|FahrenhietCelcius\\FahrenhietCelcius.csproj|solutionrelative:fahrenhietcelcius\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanma\\Desktop\\CG-DOTNET\\FahrenhietCelcius\\FahrenhietCelcius\\Program.cs",
+              "RelativeDocumentMoniker": "FahrenhietCelcius\\Program.cs",
+              "ToolTip": "C:\\Users\\tanma\\Desktop\\CG-DOTNET\\FahrenhietCelcius\\FahrenhietCelcius\\Program.cs",
+              "RelativeToolTip": "FahrenhietCelcius\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T19:23:51.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

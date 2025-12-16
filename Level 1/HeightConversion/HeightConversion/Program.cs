@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HeightConversion
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter height in cm: ");
+            double cm = Convert.ToDouble(Console.ReadLine());
+
+            double inches = cm / 2.54;
+            int feet = (int)(inches / 12);
+            double remainingInches = inches % 12;
+
+            Console.WriteLine("Your Height in cm is " + cm +
+                              " while in feet is " + feet +
+                              " and inches is " + remainingInches);
+        }
+    }
+}

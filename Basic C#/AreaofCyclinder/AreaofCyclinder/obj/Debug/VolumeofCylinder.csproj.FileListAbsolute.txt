@@ -1,7 +1,0 @@
-C:\Users\tanma\Desktop\CG-DOTNET\AreaofCyclinder\AreaofCyclinder\bin\Debug\AreaofCyclinder.exe.config
-C:\Users\tanma\Desktop\CG-DOTNET\AreaofCyclinder\AreaofCyclinder\bin\Debug\AreaofCyclinder.exe
-C:\Users\tanma\Desktop\CG-DOTNET\AreaofCyclinder\AreaofCyclinder\bin\Debug\AreaofCyclinder.pdb
-C:\Users\tanma\Desktop\CG-DOTNET\AreaofCyclinder\AreaofCyclinder\obj\Debug\VolumeofCylinder.csproj.AssemblyReference.cache
-C:\Users\tanma\Desktop\CG-DOTNET\AreaofCyclinder\AreaofCyclinder\obj\Debug\VolumeofCylinder.csproj.CoreCompileInputs.cache
-C:\Users\tanma\Desktop\CG-DOTNET\AreaofCyclinder\AreaofCyclinder\obj\Debug\AreaofCyclinder.exe
-C:\Users\tanma\Desktop\CG-DOTNET\AreaofCyclinder\AreaofCyclinder\obj\Debug\AreaofCyclinder.pdb

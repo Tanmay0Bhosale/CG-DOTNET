@@ -1,7 +1,0 @@
-C:\Users\tanma\Desktop\CG-DOTNET\PrintBridgeLabz\PrintBridgeLabz\bin\Debug\PrintBridgeLabz.exe.config
-C:\Users\tanma\Desktop\CG-DOTNET\PrintBridgeLabz\PrintBridgeLabz\bin\Debug\PrintBridgeLabz.exe
-C:\Users\tanma\Desktop\CG-DOTNET\PrintBridgeLabz\PrintBridgeLabz\bin\Debug\PrintBridgeLabz.pdb
-C:\Users\tanma\Desktop\CG-DOTNET\PrintBridgeLabz\PrintBridgeLabz\obj\Debug\PrintBridgeLabz.csproj.AssemblyReference.cache
-C:\Users\tanma\Desktop\CG-DOTNET\PrintBridgeLabz\PrintBridgeLabz\obj\Debug\PrintBridgeLabz.csproj.CoreCompileInputs.cache
-C:\Users\tanma\Desktop\CG-DOTNET\PrintBridgeLabz\PrintBridgeLabz\obj\Debug\PrintBridgeLabz.exe
-C:\Users\tanma\Desktop\CG-DOTNET\PrintBridgeLabz\PrintBridgeLabz\obj\Debug\PrintBridgeLabz.pdb

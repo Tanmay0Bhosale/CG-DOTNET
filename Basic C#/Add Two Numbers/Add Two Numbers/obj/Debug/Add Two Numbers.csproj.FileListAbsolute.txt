@@ -1,7 +1,0 @@
-C:\Users\tanma\Desktop\CG-DOTNET\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.exe.config
-C:\Users\tanma\Desktop\CG-DOTNET\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.exe
-C:\Users\tanma\Desktop\CG-DOTNET\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.pdb
-C:\Users\tanma\Desktop\CG-DOTNET\Add Two Numbers\Add Two Numbers\obj\Debug\Add Two Numbers.csproj.AssemblyReference.cache
-C:\Users\tanma\Desktop\CG-DOTNET\Add Two Numbers\Add Two Numbers\obj\Debug\Add Two Numbers.csproj.CoreCompileInputs.cache
-C:\Users\tanma\Desktop\CG-DOTNET\Add Two Numbers\Add Two Numbers\obj\Debug\Add Two Numbers.exe
-C:\Users\tanma\Desktop\CG-DOTNET\Add Two Numbers\Add Two Numbers\obj\Debug\Add Two Numbers.pdb

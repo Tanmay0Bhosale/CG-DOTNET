@@ -1,7 +1,0 @@
-C:\Users\tanma\Desktop\CG-DOTNET\PerimeterofRectangle\PerimeterofRectangle\bin\Debug\PerimeterofRectangle.exe.config
-C:\Users\tanma\Desktop\CG-DOTNET\PerimeterofRectangle\PerimeterofRectangle\bin\Debug\PerimeterofRectangle.exe
-C:\Users\tanma\Desktop\CG-DOTNET\PerimeterofRectangle\PerimeterofRectangle\bin\Debug\PerimeterofRectangle.pdb
-C:\Users\tanma\Desktop\CG-DOTNET\PerimeterofRectangle\PerimeterofRectangle\obj\Debug\PerimeterofRectangle.csproj.AssemblyReference.cache
-C:\Users\tanma\Desktop\CG-DOTNET\PerimeterofRectangle\PerimeterofRectangle\obj\Debug\PerimeterofRectangle.csproj.CoreCompileInputs.cache
-C:\Users\tanma\Desktop\CG-DOTNET\PerimeterofRectangle\PerimeterofRectangle\obj\Debug\PerimeterofRectangle.exe
-C:\Users\tanma\Desktop\CG-DOTNET\PerimeterofRectangle\PerimeterofRectangle\obj\Debug\PerimeterofRectangle.pdb

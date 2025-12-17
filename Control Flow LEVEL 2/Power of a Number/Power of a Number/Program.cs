@@ -4,16 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace multiplicationTable
+namespace Power_of_a_Number
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int number = int.Parse(Console.ReadLine());
+            int power = int.Parse(Console.ReadLine());
 
-            for (int i = 6; i <= 9; i++)
-                Console.WriteLine($"{number} * {i} = {number * i}");
+            int result = 1;
+
+            for (int i = 1; i <= power; i++)
+                result *= number;
+
+            Console.WriteLine(result);
         }
     }
 }

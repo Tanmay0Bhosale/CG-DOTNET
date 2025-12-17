@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace multiplicationTable
+namespace multiplesOfNUmber
 {
     internal class Program
     {
@@ -12,8 +12,11 @@ namespace multiplicationTable
         {
             int number = int.Parse(Console.ReadLine());
 
-            for (int i = 6; i <= 9; i++)
-                Console.WriteLine($"{number} * {i} = {number * i}");
+            for (int i = 100; i >= 1; i--)
+            {
+                if (i % number == 0)
+                    Console.WriteLine(i);
+            }
         }
     }
 }

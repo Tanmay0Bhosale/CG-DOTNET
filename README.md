@@ -25,4 +25,11 @@ What I have done: Review Done Today / Methods Level 1(1st question)/Changed the 
 What i will do next: Methods and Strings All Programs
 
 Issues Faced: git command (Remove the local repository completely from your system.) and delete (git rm -rf .) 
+# 19 December Friday,2025
+
+What I have done: Completed Methods All levels
+
+What I will do next: Complete Strings and snake and ladder problem
+
+Issues faced: While solving the methods level 3  hard questions were there 
 
